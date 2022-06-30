@@ -27,4 +27,4 @@ https://www.linkedin.com/in/aidan-forth-16b1bb149/
       /          \
      ('--......--')
      /'--......--'\
-     `"--......--"   https://lichess.org/@/aidan4th
+     `"--......--"  https://lichess.org/@/aidan4th
