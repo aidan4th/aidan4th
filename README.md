@@ -5,7 +5,8 @@ I started to work in the computer science area eight years ago in highschool. I 
 
 I am excited to see where the future takes me!
 
-You can also find me in LinkedIn :) 
+You can also find me in LinkedIn :)
+ 
 https://www.linkedin.com/in/aidan-forth-16b1bb149/
 
 
